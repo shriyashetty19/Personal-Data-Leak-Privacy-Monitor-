@@ -1,0 +1,248 @@
+{
+  "users": [
+    {
+      "_id": "9cc3xbgm4",
+      "monitoredEmails": [
+        "shriyashetty2295@gmail.com"
+      ],
+      "name": "Shriya",
+      "email": "shriyashetty2295@gmail.com",
+      "password": "123456",
+      "isVerified": true,
+      "createdAt": "2026-04-02T21:45:54.314Z",
+      "scanHistory": {
+        "shriyashetty2295@gmail.com": "2026-05-21T17:06:52.155Z",
+        "sathyashriyagn23is@rnsit.ac.in": "2026-04-29T05:36:37.174Z",
+        "1rn23isakshayhegde@gmail.com": "2026-04-29T05:37:21.211Z",
+        "shriya.shetty@gmail.com": "2026-05-21T14:05:40.835Z"
+      }
+    },
+    {
+      "_id": "9vl0ygnls",
+      "monitoredEmails": [],
+      "name": "test",
+      "email": "test@me.com",
+      "password": "1234",
+      "isVerified": true,
+      "createdAt": "2026-04-02T21:59:19.711Z"
+    },
+    {
+      "_id": "7qjf81iky",
+      "monitoredEmails": [],
+      "scanHistory": {},
+      "name": "Neha",
+      "isVerified": true,
+      "email": "neha@gmail.com",
+      "password": "123456",
+      "createdAt": "2026-04-03T09:57:26.993Z"
+    },
+    {
+      "_id": "hcf07ktn2",
+      "monitoredEmails": [],
+      "scanHistory": {},
+      "isVerified": false,
+      "verificationOTP": "783308",
+      "otpExpires": "2026-04-03T10:36:12.270Z",
+      "name": "Neha",
+      "email": "neha11@gmail.com",
+      "password": "123456",
+      "createdAt": "2026-04-03T10:26:12.270Z"
+    },
+    {
+      "_id": "z2dswj57y",
+      "monitoredEmails": [],
+      "scanHistory": {},
+      "isVerified": false,
+      "verificationOTP": "883480",
+      "otpExpires": "2026-04-03T10:36:21.505Z",
+      "name": "Neha",
+      "email": "neha121@gmail.com",
+      "password": "123456",
+      "createdAt": "2026-04-03T10:26:21.505Z"
+    },
+    {
+      "_id": "gnqzfmbna",
+      "monitoredEmails": [],
+      "scanHistory": {},
+      "isVerified": false,
+      "verificationOTP": "140452",
+      "otpExpires": "2026-04-03T10:45:29.776Z",
+      "name": "TestUser",
+      "email": "ghjklpoiuytr@gmail.com",
+      "password": "123456",
+      "createdAt": "2026-04-03T10:35:29.776Z"
+    },
+    {
+      "_id": "rq3n1lsrc",
+      "monitoredEmails": [],
+      "scanHistory": {},
+      "isVerified": false,
+      "verificationOTP": "782728",
+      "otpExpires": "2026-04-29T15:28:33.543Z",
+      "name": "Test User",
+      "email": "testuser.real@gmail.com",
+      "password": "Password123",
+      "createdAt": "2026-04-29T15:18:31.169Z"
+    },
+    {
+      "_id": "il8jzdbdk",
+      "monitoredEmails": [],
+      "scanHistory": {},
+      "isVerified": false,
+      "verificationOTP": "817625",
+      "otpExpires": "2026-05-21T17:14:43.321Z",
+      "name": "dummy",
+      "email": "dummy@gmail.com",
+      "password": "1234",
+      "createdAt": "2026-05-21T17:04:43.322Z"
+    },
+    {
+      "_id": "2c210suk4",
+      "monitoredEmails": [],
+      "scanHistory": {},
+      "isVerified": false,
+      "verificationOTP": "328857",
+      "otpExpires": "2026-05-21T17:15:18.039Z",
+      "name": "Shriya1",
+      "email": "sathyashriyagn23is@rnsit.ac.in",
+      "password": "12345",
+      "createdAt": "2026-05-21T17:05:18.041Z"
+    }
+  ],
+  "alerts": [],
+  "subscriptions": [],
+  "auditLogs": [
+    {
+      "_id": "8sssijboi",
+      "user": "9cc3xbgm4",
+      "action": "LOGIN_SUCCESS",
+      "resource": "USER",
+      "details": {
+        "email": "shriyashetty2295@gmail.com"
+      },
+      "ipAddress": "::1",
+      "userAgent": "node",
+      "createdAt": "2026-05-21T14:00:17.510Z"
+    },
+    {
+      "_id": "fiejgowlu",
+      "user": "9cc3xbgm4",
+      "action": "LOGIN_SUCCESS",
+      "resource": "USER",
+      "details": {
+        "email": "shriyashetty2295@gmail.com"
+      },
+      "ipAddress": "::1",
+      "userAgent": "node",
+      "createdAt": "2026-05-21T14:00:35.259Z"
+    },
+    {
+      "_id": "w5icnpwpg",
+      "user": "9cc3xbgm4",
+      "action": "LOGIN_SUCCESS",
+      "resource": "USER",
+      "details": {
+        "email": "shriyashetty2295@gmail.com"
+      },
+      "ipAddress": "::1",
+      "userAgent": "node",
+      "createdAt": "2026-05-21T14:00:52.682Z"
+    },
+    {
+      "_id": "vxk8g97mb",
+      "user": "9cc3xbgm4",
+      "action": "ADD_MONITOR",
+      "resource": "IDENTITY",
+      "details": {
+        "email": "shriya.shetty@gmail.com"
+      },
+      "ipAddress": "::1",
+      "userAgent": "node",
+      "createdAt": "2026-05-21T14:00:52.708Z"
+    },
+    {
+      "_id": "22x4vpnik",
+      "user": "9cc3xbgm4",
+      "action": "LOGIN_SUCCESS",
+      "resource": "USER",
+      "details": {
+        "email": "shriyashetty2295@gmail.com"
+      },
+      "ipAddress": "::1",
+      "userAgent": "node",
+      "createdAt": "2026-05-21T14:02:05.787Z"
+    },
+    {
+      "_id": "n9aq357d6",
+      "user": "9cc3xbgm4",
+      "action": "LOGIN_SUCCESS",
+      "resource": "USER",
+      "details": {
+        "email": "shriyashetty2295@gmail.com"
+      },
+      "ipAddress": "::1",
+      "userAgent": "node",
+      "createdAt": "2026-05-21T14:05:40.554Z"
+    },
+    {
+      "_id": "x2dr6wv8l",
+      "user": "9cc3xbgm4",
+      "action": "LOGIN_SUCCESS",
+      "resource": "USER",
+      "details": {
+        "email": "shriyashetty2295@gmail.com"
+      },
+      "ipAddress": "::1",
+      "userAgent": "node",
+      "createdAt": "2026-05-21T14:07:21.424Z"
+    },
+    {
+      "_id": "cwnaqgk2q",
+      "user": "9cc3xbgm4",
+      "action": "REMOVE_MONITOR",
+      "resource": "IDENTITY",
+      "details": {
+        "email": "shriya.shetty@gmail.com"
+      },
+      "ipAddress": "::1",
+      "userAgent": "node",
+      "createdAt": "2026-05-21T14:07:22.648Z"
+    },
+    {
+      "_id": "hochbr3zq",
+      "user": "9cc3xbgm4",
+      "action": "LOGIN_SUCCESS",
+      "resource": "USER",
+      "details": {
+        "email": "shriyashetty2295@gmail.com"
+      },
+      "ipAddress": "::1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0",
+      "createdAt": "2026-05-21T14:19:30.948Z"
+    },
+    {
+      "_id": "z3mmjin8e",
+      "user": "9cc3xbgm4",
+      "action": "LOGIN_SUCCESS",
+      "resource": "USER",
+      "details": {
+        "email": "shriyashetty2295@gmail.com"
+      },
+      "ipAddress": "::1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0",
+      "createdAt": "2026-05-21T16:59:16.782Z"
+    },
+    {
+      "_id": "ckcnj7z3e",
+      "user": "9cc3xbgm4",
+      "action": "LOGIN_SUCCESS",
+      "resource": "USER",
+      "details": {
+        "email": "shriyashetty2295@gmail.com"
+      },
+      "ipAddress": "::1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0",
+      "createdAt": "2026-05-21T17:06:51.097Z"
+    }
+  ]
+}

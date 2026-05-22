@@ -1,0 +1,4 @@
+◇ injecting env (3) from .env // tip: ⌘ enable debugging { debug: true }
+Server running in undefined mode on port 5000
+⚠️ MongoDB Connection Error: connect ECONNREFUSED 127.0.0.1:27017
+🚀 Hybrid System: MOCK MODE ACTIVATED. App is fully functional via In-Memory Storage.
